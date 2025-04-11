@@ -76,7 +76,7 @@ def mostrar_repuestos(repuestos, limite=8):
         print(f"   Inventario: {repuesto['inventario']} unidades\n")
 
 def menu():
-    datos = generar_repuestos(8)
+    datos = generar_repuestos(8)#El número de datos tiene que ser igual a la cantidad de repuestos a generar
     
     while True:
         print("\n=== Gestión Carfix ===")
