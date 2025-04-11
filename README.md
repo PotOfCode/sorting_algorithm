@@ -2,7 +2,7 @@
 # **Planteamiento del Problema: Sistema de Ordenamiento para Carfix**  
 
 ## **📌 Contexto**  
-**Carfix** es una plataforma de venta de repuestos automotrices que necesita mostrar productos ordenados por precio de manera eficiente. Actualmente, el sistema no cuenta con un método optimizado para ordenar grandes volúmenes de datos, lo que puede afectar la experiencia del usuario al realizar búsquedas.  
+**Carfix** es una plataforma de venta de repuestos automotrices que necesita mostrar productos ordenados de manera eficiente. Actualmente, el sistema no cuenta con un método optimizado para ordenar grandes volúmenes de datos, lo que puede afectar la experiencia del usuario al realizar búsquedas.  
 
 ### **Problemas específicos:**  
 1. **Tiempo de respuesta lento** al ordenar listas grandes de repuestos.  
