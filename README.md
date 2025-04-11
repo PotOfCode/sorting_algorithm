@@ -14,11 +14,11 @@
 
 ## **🔧 Implementación**  
 Se desarrolló un sistema en Python que permite:  
-✅ **Ordenar repuestos por precio** usando 4 algoritmos distintos:  
-- **Bubble Sort** (para conjuntos pequeños)  
-- **Insertion Sort** (eficiente en datos casi ordenados)  
-- **Quick Sort** (óptimo para grandes volúmenes)  
-- **Merge Sort** (estable y consistente)  
+✅ **Ordenar repuestos por precio, unidades o calificación** usando 4 algoritmos distintos:  
+- **Bubble Sort**   
+- **Insertion Sort**   
+- **Quick Sort**   
+- **Merge Sort**   
 
 ✅ **Comparar tiempos de ejecución** para determinar el método más eficiente.    
 
